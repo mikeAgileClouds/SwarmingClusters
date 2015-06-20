@@ -6,8 +6,10 @@ This will demo the ability of Swarm to communicate to multiple container engines
 
 The project requires the following team expertise 
 
-Interface developer with Node.js experience  
-To build a screen that inputs allows for inputting a dockerfile and the required details to graphically launch and move the containers between a swarm cluster on Ranger and a cluster on Mesosphere DCOS. 
+Interface developer with Node.js experience 
+
+1) To build a screen that allows for inputting a dockerfile 
+2) Also inputs the required details to graphically launch and show the movement of containers across a swarm cluster on Ranger and a swarm cluster on Mesosphere DCOS. 
 
 Swarm Expert who can
 
