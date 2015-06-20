@@ -1,6 +1,6 @@
 # SwarmingClusters
 
-The goal of this project is build a tool that will orchestrate docker containers across multiple clusters infrastructures using the Swarm API.
+The goal of this project is build a tool that will orchestrate docker containers across multiple cluster infrastructures using the Swarm API.
 This will demo the ability of Swarm to communicate to multiple container engines and act as a model for showing organizations the ship-ability and run-ability of docker. 
 
 
